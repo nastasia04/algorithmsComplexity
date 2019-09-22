@@ -29,6 +29,7 @@ public class Main {
 
                 System.out.println("hello");
 
+                System.out.println("new branch");
                 count--;
             }
             count = NUMBER_OF_RUNS;
