@@ -34,12 +34,6 @@ public class Main {
                 System.out.println("new branch main");
 
 
-                System.out.println("this is branch hello)");
-
-                System.out.println("new branch main section");
-                System.out.println("new branch main");
-                System.out.println("new branch main section");
-                System.out.println("new branch main");
                 count--;
             }
             count = NUMBER_OF_RUNS;
