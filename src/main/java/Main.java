@@ -27,6 +27,8 @@ public class Main {
                 runAlgorithms.runBubbleSort();
                 runAlgorithms.runMatrixProduct(matrixA,matrixB);
 
+                System.out.println("hello");
+
                 count--;
             }
             count = NUMBER_OF_RUNS;
