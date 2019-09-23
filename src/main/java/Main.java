@@ -39,6 +39,7 @@ public class Main {
                 System.out.println("new branch main");
 
                 System.out.println("hi");
+                System.out.println("hello");
 
 
                 count--;
