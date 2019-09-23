@@ -30,10 +30,13 @@ public class Main {
                 System.out.println("master");
 
 
+                System.out.println("hello");
+
+
                 System.out.println("new branch main section");
                 System.out.println("new branch main");
 
-                System.out.println("hi");
+
 
                 count--;
             }
