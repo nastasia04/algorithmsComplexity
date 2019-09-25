@@ -27,20 +27,7 @@ public class Main {
                 runAlgorithms.runBubbleSort();
                 runAlgorithms.runMatrixProduct(matrixA,matrixB);
 
-                System.out.println("master");
-
-
-                System.out.println("hello");
-
-
-                System.out.println("new branch main section");
-                System.out.println("new branch main section");
-                System.out.println("new branch main section");
-                System.out.println("new branch main");
-
-                System.out.println("hi");
-                System.out.println("hello");
-
+                System.out.println("new branch");
 
                 count--;
             }
